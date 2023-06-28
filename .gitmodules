@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ConConPiWiFun"]
 	path = ConConPiWiFun
 	url = https://github.com/cran/ConConPiWiFun
-	shallow = true
-	registered = true
 [submodule "VHDClassification"]
 	path = VHDClassification
 	url = https://github.com/cran/VHDClassification
-	shallow = true
-	registered = true
