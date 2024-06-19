@@ -5,6 +5,3 @@
 [submodule "ConConPiWiFun"]
 	path = ConConPiWiFun
 	url = https://github.com/cran/ConConPiWiFun
-[submodule "VHDClassification"]
-	path = VHDClassification
-	url = https://github.com/cran/VHDClassification
